@@ -49,7 +49,7 @@ Prepare the memory card
 
 Clone this repository on a computer :
 
-    git clone http://github.com/niclet/xiaomi-hack.git
+    git clone http://github.com/niclet/xiaomi_hack.git
     
 Then, format a micro SD card in fat32 (vfat) format and copy the content of the **xiaomi-hack/sd/** folder at the root of your memory card.
 
